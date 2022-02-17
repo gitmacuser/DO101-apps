@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/mars', function (req, res) {
-  res.send('Hello there is new World!\n');
+  res.send('Hello there is new World changes!\n');
 
 });
 
